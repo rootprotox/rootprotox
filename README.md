@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rootprotox
 - 👀 I’m interested in Game Developpement
 - 🌱 I’m currently learning C#
-- 📫 You can reach me on discord : protox#9638
 
  ———————————————————————————————
 
